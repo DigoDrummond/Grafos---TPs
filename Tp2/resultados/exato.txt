@@ -1,1 +1,2 @@
-pmed1: 127 20503ms
+pmed1: 127 20503ms 20s
+pmed6:84 1340991ms 22 min
